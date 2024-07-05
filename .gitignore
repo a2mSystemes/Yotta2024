@@ -76,6 +76,5 @@ DerivedDataCache/*
 #Config Unreal
 /Config/DefaultEngine.ini
 
-
 #Tests Yotta Project
 /Content/Tests/*

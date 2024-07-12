@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+C# Visual Studio 2015 user specific files
 .vs/
 
 # Compiled Object files
@@ -75,6 +75,9 @@ DerivedDataCache/*
 
 #Config Unreal
 /Config/DefaultEngine.ini
+
+#Tests Yotta Project
+/Content/Tests/*
 
 #Tests Yotta Project
 /Content/Tests/*
